@@ -1,8 +1,4 @@
-:root {
-  --main-color: var(--color);
-  --second-txt-color: blue;
-  --main-padding: 15px;
-}
+
 
 header {
   display: flex;
@@ -11,7 +7,7 @@ header {
   padding-top: 1vw;
   padding-left: 15%;
   padding-bottom: 0.01vw;
-  background-color: var(--main-color);
+  background-color: var(--color);
 }
 
 .cabecera {
@@ -24,14 +20,14 @@ header {
   font-size: 1.6vw;
   font-family: Arial, Helvetica, sans-serif;
   transition: 0.5s font-size linear;
-  background-color: var(--main-color);
+  background-color: var(--color);
 }
 
 nav {
   padding-left: 7vw;
   padding-top: 50px;
   justify-content: space-between;
-  background-color: var(--main -color);
+  background-color: var(--color);
 }
 
 nav > ul {

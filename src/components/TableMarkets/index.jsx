@@ -1,10 +1,20 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './TableMarkets.css'
 import Chart from '../Chart'
 import MaterialIcon, {colorPalette} from 'material-icons-react';
 
 
-const TableMarkets = () =>
+const TableMarkets = () => {
+    
+    const [data, setData] = useState({});
+    
+
+    const onClick = (event) => {
+        setData(event.target.id);
+                console.log(data);
+    }
+
+return(
 <>
 <section class="forMobile">
   <h3 class="h3first" id="tablaMercadosUK"><a href="#" onclick="myJsFuncCambiatabal('uk');">UK markets</a></h3>
@@ -14,14 +24,14 @@ const TableMarkets = () =>
 <section>
   <table class="tableindices" id="indices">
     <tbody><tr>
-      <td class="tdbis"><a href="#" onclick="myJsFunc('ftse100');">FTSE 100</a></td>
+      <td class="tdbis"><a id="ftse100" href="#" onClick={onClick}>FTSE 100</a></td>
       <td class="tdbis">5,583.50</td>
       <td class="tdbis"><MaterialIcon icon="arrow_upward" color='green' /></td>
       <td class="tdbis">+168.00</td>
       <td class="tdbis">+3.10%</td>
     </tr>
     <tr class="tdsecondbis">
-      <td class="tdsecondbis"><a href="#" onclick="myJsFunc('ftse250');">FTSE 250</a></td>
+      <td class="tdsecondbis"><a href="#" id="ftse250" onClick={onClick}>FTSE 250</a></td>
       <td class="tdsecondbis">14,807.14</td>
       <td class="tdsecondbis"><MaterialIcon icon="arrow_upward" color='green' /></td>
       <td class="tdsecondbis">+707.93</td>
@@ -66,5 +76,7 @@ const TableMarkets = () =>
   <Chart></Chart>
 </section>
 </>
+)
+}
 
 export default TableMarkets
