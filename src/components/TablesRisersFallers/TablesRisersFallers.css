@@ -1,0 +1,94 @@
+section {
+  padding-top: 15px;
+  padding-left: 10vw;
+  display: flex;
+  margin-left: 10vw;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: bottom;
+}
+.divtopflops {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0vw;
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 26.5vw;
+  height: 300px;
+}
+
+.divtopflops2 {
+  display: flex;
+  flex-direction: column;
+  padding-left: 2vw;
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 26.5vw;
+  height: 300px;
+}
+
+.sectionContenedora {
+  margin-top: -20px;
+  padding-top: 15px;
+  display: flex;
+  padding-left: 0vw;
+  flex-direction: column;
+  margin-left: 0vw;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: bottom;
+}
+
+.sectionContenedora2 {
+  padding-top: -15px;
+  display: flex;
+  align-items: stretch;
+  padding-left: 0vw;
+  margin-left: 0vw;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: bottom;
+}
+
+.h3first {
+  margin: 0;
+  padding-top: 5px;
+  padding-left: 0vw;
+  text-align: center;
+  color: var(--color);
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  transition: 0.5s font-size linear;
+  background-color: white;
+}
+
+.subidas {
+  align-self: auto;
+  width: auto;
+}
+.bajadas {
+  align-self: auto;
+  width: auto;
+}
+
+td,
+tr {
+  margin-left: 2px;
+  font-size: 14px;
+  border: 1px solid rgb(190, 190, 190);
+  vertical-align: 0px;
+  text-align: left;
+  background-color: rgb(235, 235, 235);
+}
+
+tr td.tdmain {
+  background-color: rgb(242, 242, 242);
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 20px;
+}
+
+tr td.tdbis {
+  background-color: rgb(232, 232, 232);
+}
+
+tr td.tdsecondbis {
+  background-color: var(--color2);
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}

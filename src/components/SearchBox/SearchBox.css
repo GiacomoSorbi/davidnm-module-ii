@@ -1,0 +1,47 @@
+.h1side{
+    padding-top: 18px;
+    padding-left: 2vw;
+    display: flex;
+    flex-direction:row-reverse;   
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 23vw;
+    height: 30px;
+  }
+  .buscadorYresultados{
+    display: flex;
+    flex-direction:column;   
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 12vw;
+    height: 30px;
+  }
+  
+  .buscador{
+    height: 30px;
+    width: 12vw;
+  }
+
+  .companyList{
+    display: flex;
+    flex-direction: column;   
+    padding-left: 0vw;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 0px;
+    height: auto;
+  }
+
+  .row{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    text-decoration: none;
+    overflow: visible;
+    display: flex;
+    flex-direction: column;   
+    padding-top: 10px;
+    padding-left: 0vw;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width:234px;
+    width: 5vw;
+    height: 12px;
+    background-color: rgba(245, 245, 245, 0.849)
+  
+  }
