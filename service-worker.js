@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "http://GiacomoSorbi.github.io/davidnm-module-ii/precache-manifest.b1654083230f9e87d48eba6c67eb81d2.js"
+  "https://GiacomoSorbi.github.io/davidnm-module-ii/precache-manifest.9b46ffdd8f8b6e98829610f2a3bed589.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("http://GiacomoSorbi.github.io/davidnm-module-ii/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("https://GiacomoSorbi.github.io/davidnm-module-ii/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
