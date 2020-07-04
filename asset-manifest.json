@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/davidnm-module-ii/static/css/main.f3b1f6af.chunk.css",
-    "main.js": "/davidnm-module-ii/static/js/main.75f2712d.chunk.js",
-    "main.js.map": "/davidnm-module-ii/static/js/main.75f2712d.chunk.js.map",
+    "main.js": "/davidnm-module-ii/static/js/main.b163811e.chunk.js",
+    "main.js.map": "/davidnm-module-ii/static/js/main.b163811e.chunk.js.map",
     "runtime-main.js": "/davidnm-module-ii/static/js/runtime-main.1b7045fe.js",
     "runtime-main.js.map": "/davidnm-module-ii/static/js/runtime-main.1b7045fe.js.map",
     "static/css/2.1f156bdb.chunk.css": "/davidnm-module-ii/static/css/2.1f156bdb.chunk.css",
     "static/js/2.5273385c.chunk.js": "/davidnm-module-ii/static/js/2.5273385c.chunk.js",
     "static/js/2.5273385c.chunk.js.map": "/davidnm-module-ii/static/js/2.5273385c.chunk.js.map",
     "index.html": "/davidnm-module-ii/index.html",
-    "precache-manifest.28156df7d001ae0f2ed972922530faa1.js": "/davidnm-module-ii/precache-manifest.28156df7d001ae0f2ed972922530faa1.js",
+    "precache-manifest.05361a438ff154576ca4f5ff103c3323.js": "/davidnm-module-ii/precache-manifest.05361a438ff154576ca4f5ff103c3323.js",
     "service-worker.js": "/davidnm-module-ii/service-worker.js",
     "static/css/2.1f156bdb.chunk.css.map": "/davidnm-module-ii/static/css/2.1f156bdb.chunk.css.map",
     "static/css/main.f3b1f6af.chunk.css.map": "/davidnm-module-ii/static/css/main.f3b1f6af.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.1f156bdb.chunk.css",
     "static/js/2.5273385c.chunk.js",
     "static/css/main.f3b1f6af.chunk.css",
-    "static/js/main.75f2712d.chunk.js"
+    "static/js/main.b163811e.chunk.js"
   ]
 }
