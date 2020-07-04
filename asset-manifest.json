@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/davidnm-module-ii/static/css/main.f3b1f6af.chunk.css",
-    "main.js": "/davidnm-module-ii/static/js/main.07f2063c.chunk.js",
-    "main.js.map": "/davidnm-module-ii/static/js/main.07f2063c.chunk.js.map",
-    "runtime-main.js": "/davidnm-module-ii/static/js/runtime-main.1b7045fe.js",
-    "runtime-main.js.map": "/davidnm-module-ii/static/js/runtime-main.1b7045fe.js.map",
-    "static/css/2.1f156bdb.chunk.css": "/davidnm-module-ii/static/css/2.1f156bdb.chunk.css",
-    "static/js/2.6f76e5fd.chunk.js": "/davidnm-module-ii/static/js/2.6f76e5fd.chunk.js",
-    "static/js/2.6f76e5fd.chunk.js.map": "/davidnm-module-ii/static/js/2.6f76e5fd.chunk.js.map",
-    "index.html": "/davidnm-module-ii/index.html",
-    "precache-manifest.1590c6af1c9eeeb64d029026c24819a3.js": "/davidnm-module-ii/precache-manifest.1590c6af1c9eeeb64d029026c24819a3.js",
-    "service-worker.js": "/davidnm-module-ii/service-worker.js",
-    "static/css/2.1f156bdb.chunk.css.map": "/davidnm-module-ii/static/css/2.1f156bdb.chunk.css.map",
-    "static/css/main.f3b1f6af.chunk.css.map": "/davidnm-module-ii/static/css/main.f3b1f6af.chunk.css.map",
-    "static/js/2.6f76e5fd.chunk.js.LICENSE.txt": "/davidnm-module-ii/static/js/2.6f76e5fd.chunk.js.LICENSE.txt"
+    "main.css": "http://GiacomoSorbi.github.io/davidnm-module-ii/static/css/main.f3b1f6af.chunk.css",
+    "main.js": "http://GiacomoSorbi.github.io/davidnm-module-ii/static/js/main.4fcf0732.chunk.js",
+    "main.js.map": "http://GiacomoSorbi.github.io/davidnm-module-ii/static/js/main.4fcf0732.chunk.js.map",
+    "runtime-main.js": "http://GiacomoSorbi.github.io/davidnm-module-ii/static/js/runtime-main.1a2d4622.js",
+    "runtime-main.js.map": "http://GiacomoSorbi.github.io/davidnm-module-ii/static/js/runtime-main.1a2d4622.js.map",
+    "static/css/2.1f156bdb.chunk.css": "http://GiacomoSorbi.github.io/davidnm-module-ii/static/css/2.1f156bdb.chunk.css",
+    "static/js/2.6f76e5fd.chunk.js": "http://GiacomoSorbi.github.io/davidnm-module-ii/static/js/2.6f76e5fd.chunk.js",
+    "static/js/2.6f76e5fd.chunk.js.map": "http://GiacomoSorbi.github.io/davidnm-module-ii/static/js/2.6f76e5fd.chunk.js.map",
+    "index.html": "http://GiacomoSorbi.github.io/davidnm-module-ii/index.html",
+    "precache-manifest.b1654083230f9e87d48eba6c67eb81d2.js": "http://GiacomoSorbi.github.io/davidnm-module-ii/precache-manifest.b1654083230f9e87d48eba6c67eb81d2.js",
+    "service-worker.js": "http://GiacomoSorbi.github.io/davidnm-module-ii/service-worker.js",
+    "static/css/2.1f156bdb.chunk.css.map": "http://GiacomoSorbi.github.io/davidnm-module-ii/static/css/2.1f156bdb.chunk.css.map",
+    "static/css/main.f3b1f6af.chunk.css.map": "http://GiacomoSorbi.github.io/davidnm-module-ii/static/css/main.f3b1f6af.chunk.css.map",
+    "static/js/2.6f76e5fd.chunk.js.LICENSE.txt": "http://GiacomoSorbi.github.io/davidnm-module-ii/static/js/2.6f76e5fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b7045fe.js",
+    "static/js/runtime-main.1a2d4622.js",
     "static/css/2.1f156bdb.chunk.css",
     "static/js/2.6f76e5fd.chunk.js",
     "static/css/main.f3b1f6af.chunk.css",
-    "static/js/main.07f2063c.chunk.js"
+    "static/js/main.4fcf0732.chunk.js"
   ]
 }
