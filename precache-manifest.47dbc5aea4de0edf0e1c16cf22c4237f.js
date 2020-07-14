@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea9586860fdd80b4820aa8df4e020c26",
+    "revision": "2b361dd4a2c7b5aa57b4051226be1a1f",
     "url": "/davidnm-module-ii/index.html"
   },
   {
-    "revision": "29cdfb5fa0fd63966c00",
+    "revision": "a56c34913292dcebad4f",
     "url": "/davidnm-module-ii/static/css/2.1f156bdb.chunk.css"
   },
   {
-    "revision": "c828fb23cdd6f021628e",
+    "revision": "cfa7f6f20c8cd394f97f",
     "url": "/davidnm-module-ii/static/css/main.f3b1f6af.chunk.css"
   },
   {
-    "revision": "29cdfb5fa0fd63966c00",
-    "url": "/davidnm-module-ii/static/js/2.bc87384f.chunk.js"
+    "revision": "a56c34913292dcebad4f",
+    "url": "/davidnm-module-ii/static/js/2.96534adb.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/davidnm-module-ii/static/js/2.bc87384f.chunk.js.LICENSE.txt"
+    "url": "/davidnm-module-ii/static/js/2.96534adb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c828fb23cdd6f021628e",
-    "url": "/davidnm-module-ii/static/js/main.5c14ef58.chunk.js"
+    "revision": "cfa7f6f20c8cd394f97f",
+    "url": "/davidnm-module-ii/static/js/main.f34779e6.chunk.js"
   },
   {
     "revision": "fe9043da7e86fdb3d354",
